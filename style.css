@@ -283,7 +283,7 @@ font-size: 85%;
 #about-container{
     display: block;
     width: 70%;
-    min-height: 65vh;
+    min-height: 50vh;
 }
 
 #title, #projtitle, #illtitle, #contitle{
