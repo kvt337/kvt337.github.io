@@ -275,9 +275,15 @@ font-size: 85%;
     height: 700px;
 }
 
-#illustration-container, #about-container{
+#illustration-container{
     display: block;
     width: 70%;
+}
+
+#about-container{
+    display: block;
+    width: 70%;
+    min-height: 65vh;
 }
 
 #title, #projtitle, #illtitle, #contitle{
@@ -384,6 +390,7 @@ font-size: 85%;
 }
 
 #skills{
+    margin-bottom: 50px;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
