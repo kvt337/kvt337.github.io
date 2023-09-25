@@ -268,14 +268,7 @@ font-size: 85%;
     margin: auto 0;
 }
 
-#container, #project-container, #about-container, #contact-container{
-    display: block;
-    width: 70%;
-    min-height: 0;
-    height: 700px;
-}
-
-#illustration-container{
+#container, #project-container, #about-container, #illustration-container, #contact-container{
     display: block;
     width: 70%;
 }
