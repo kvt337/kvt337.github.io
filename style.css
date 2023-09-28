@@ -18,8 +18,10 @@ body {
 	background-attachment: fixed;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3, h4, #nav {
 	font-family: "Comfortaa", "Century Gothic", "Avenir", "sans-serif";
+    font-weight: normal;
+    font-style: normal;
 }
 
 p{
@@ -43,10 +45,6 @@ p{
     background-color: rgba(255, 255, 255, 0.3);
     box-shadow: none;
     z-index:100;
-}
-
-#nav{
-    font-family: "Comfortaa", Century Gothic, "sans-serif";
 }
 
 a{
