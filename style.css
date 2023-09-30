@@ -24,6 +24,10 @@ h1, h2, h3, h4, #nav {
     font-style: normal;
 }
 
+#title, #projtitle, #contitle, #illtitle{
+    animation: fadeIn 1s ease-in both;
+}
+
 p{
 	font-family: "Ebrima", Arial, "sans-serif";
 }
